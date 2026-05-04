@@ -7,6 +7,8 @@ description: "这两年我换了 N 个笔记工具，最终我还是选择了 Ob
 tags:
   - "clippings"
 
+安装了三个插件，具体如下：
+![](assets/obsidian使用文章/file-20260504170818053.png)
 
 
 ![](assets/obsidian使用文章/file-20260504165755146.png)
