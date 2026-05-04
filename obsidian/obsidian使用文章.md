@@ -10,5 +10,11 @@ tags:
 安装了三个插件，具体如下：
 ![](assets/obsidian使用文章/file-20260504170818053.png)
 
+![](assets/obsidian使用文章/file-20260504170943484.png)
 
-![](assets/obsidian使用文章/file-20260504165755146.png)
+
+![697](assets/obsidian使用文章/file-20260504165755146.png)
+
+![](assets/obsidian使用文章/file-20260504171001924.png)
+
+![](assets/obsidian使用文章/file-20260504171016621.png)
