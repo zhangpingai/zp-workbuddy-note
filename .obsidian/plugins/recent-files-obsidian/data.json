@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-05-12",
-      "path": "daily/2026-05-12.md"
-    },
-    {
       "basename": "obsidian使用文章",
       "path": "obsidian/obsidian使用文章.md"
+    },
+    {
+      "basename": "2026-05-04",
+      "path": "daily/2026-05-04.md"
+    },
+    {
+      "basename": "daily_template",
+      "path": "daily/template/daily_template.md"
     }
   ],
   "omittedPaths": [],
