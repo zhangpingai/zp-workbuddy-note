@@ -1,9 +1,8 @@
 {
-  "omnisearch:show-modal": [
+  "omnisearch:show-modal-infile": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Alt"
       ],
       "key": "O"
     }
