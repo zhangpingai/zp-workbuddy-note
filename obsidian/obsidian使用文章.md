@@ -17,4 +17,7 @@ tags:
 
 ![](assets/obsidian使用文章/file-20260504171001924.png)
 
+
+## 第一次用Obsidian？先把这8个插件装好再说
+
 ![](assets/obsidian使用文章/file-20260504171016621.png)
