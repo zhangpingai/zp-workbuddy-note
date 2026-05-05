@@ -1,8 +1,9 @@
-## WorkBuddy系统安装
-### Windows 系统安装指南
+# WorkBuddy安装
+# Windows 系统安装指南
 ## 一、下载
 
 1. 访问 [WorkBuddy 官网](https://www.codebuddy.cn/work/)，点击 **立即下载**，等待安装包下载完成。
+
 ![](https://www.codebuddy.cn/docs/static/image.nuc5Wzyg.png)
 
 ## 二、安装
