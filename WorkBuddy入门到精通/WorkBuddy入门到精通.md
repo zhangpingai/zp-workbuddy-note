@@ -5,6 +5,7 @@
 ## 一、什么是OpenClaw？
 
 OpenClaw（曾用名Clawdbot、Moltbot）是一款可以==**部署在个人电脑上的开源AI代理框架**==，因其标志性的“龙虾”图标设计，在中文互联网社区被亲切地称为“小龙虾”。它的核心口号是“The AI that actually does things”，由程序员彼得·斯坦伯格（Peter Steinberger）开发。
+![](assets/WorkBuddy入门到精通/file-20260505194307187.png)
 
 与传统的对话式AI（如ChatGPT、Claude）不同，OpenClaw的核心定位是**行动导向型智能体**。它不仅仅能回答问题、给出建议，更能**直接在你的电脑上执行操作**——无论是处理邮件、整理文件、编写代码，还是进行网页调研、管理日程。用户可以通过WhatsApp、Telegram、微信、飞书等即时通讯工具发送文本指令，远程操控电脑完成任务。
 
