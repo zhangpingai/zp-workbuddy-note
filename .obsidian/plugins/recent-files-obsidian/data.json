@@ -1,5 +1,14 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "参考素材",
+      "path": "WorkBuddy入门到精通/参考资料/参考素材.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "WorkBuddy入门到精通/未命名.md"
+    }
+  ],
   "omittedPaths": [],
   "omittedTags": [],
   "updateOn": "file-open",
