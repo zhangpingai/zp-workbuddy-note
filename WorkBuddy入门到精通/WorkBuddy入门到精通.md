@@ -128,17 +128,12 @@
 | **结果区** | 右侧面板，展示产物、全部文件、变更、预览等视图。可通过任务标题栏中的切换按钮展开或 |
 
 # 新建任务（本地 AI 工作台）
-
 本地任务的统一入口如下：
-
 ![](https://www.codebuddy.cn/docs/static/image.BtJk8M7N.png)
 
 ## 一、界面介绍
-
 ### 1）工作模式
-
 WorkBuddy 提供三种工作模式，对应不同的执行权限与交互方式：
-
 ![](https://www.codebuddy.cn/docs/static/image-1.CpdWAzFx.png)
 
 | 模式             | 说明             | 适用场景           | 图片示例                                                           |
