@@ -377,20 +377,19 @@ WorkBuddy 会按照该角色的专业视角和方法完成任务。
 | ---- | ------------------ |
 | 上半部分 | 已安装的本地技能，可直接在对话中调用 |
 | 下半部分 | 推荐技能，可按需一键安装       |
-
 ![](https://www.codebuddy.cn/docs/static/image-16.BildHC-U.png)
 
 ## 二、安装技能
 除一键安装推荐技能外，也支持导入本地技能包：
 1. 点击 **添加技能** → **上传技能**；
-    ![209](https://www.codebuddy.cn/docs/static/image-17.C6K6wTj_.png)
+    ![178](https://www.codebuddy.cn/docs/static/image-17.C6K6wTj_.png)
 2. 拖拽或点击 **选择文件**，选中本地技能包即可完成导入。
-    ![566](https://www.codebuddy.cn/docs/static/image-17-1.CNeHsWae.png)
+    ![520](https://www.codebuddy.cn/docs/static/image-17-1.CNeHsWae.png)
 导入后系统将自动完成配置，无需额外操作。
 
 ## 三、启用 / 关闭技能
 已安装技能支持随时关闭或重新启用，无需卸载。关闭后该技能不会在对话中被调用。
-![419](https://www.codebuddy.cn/docs/static/image-18.DeLijgcw.png)
+![414](https://www.codebuddy.cn/docs/static/image-18.DeLijgcw.png)
 仅启用当前任务所需的技能，减少无关干扰并降低误调用概率。
 
 ## 四、搜索技能
