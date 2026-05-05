@@ -93,8 +93,8 @@
     ![](https://www.codebuddy.cn/docs/static/image-20.CSF6dln-.png)
 3. 勾选《服务条款》与《隐私协议》，使用微信扫码完成登录；
     
-    ![](https://www.codebuddy.cn/docs/static/image-21.BEKABQ55.png)
-4. 登录成功后自动返回客户端，即可开始使用。
+    ![467](https://www.codebuddy.cn/docs/static/image-21.BEKABQ55.png)
+1. 登录成功后自动返回客户端，即可开始使用。
     
     ![](https://www.codebuddy.cn/docs/static/image-22.Da1Lz-Ry.png)
 
