@@ -1,6 +1,8 @@
 
-![675](assets/WorkBuddy入门到精通/file-20260505191405097.png)
 
+![675](assets/WorkBuddy入门到精通/file-20260505191405097.png)
+![924](assets/WorkBuddy入门到精通/file-20260505200846898.png)
+![](assets/WorkBuddy入门到精通/file-20260505200941937.png)
 # 养虾介绍
 ## 一、什么是OpenClaw？
 
@@ -445,7 +447,8 @@ Claw 页面可查看远程任务的完整执行记录，包括思考过程、操
 ![800](assets/WorkBuddy入门到精通/file-20260505192626806.png)
 WorkBuddy 会按照该角色的专业视角和方法完成任务。
 当前专家中心已覆盖设计、软件技术、市场营销、自媒体、项目管理、销售等多个方向。
-
+![](assets/WorkBuddy入门到精通/file-20260505201122627.png)
+![](assets/WorkBuddy入门到精通/file-20260505201233183.png)
 ## 二、专家 VS 技能
 ![892](assets/WorkBuddy入门到精通/file-20260505192638711.png)
 - **任务通用、无明显领域属性**时，直接使用**普通对话**即可。
