@@ -1,10 +1,11 @@
-DeepSeek、豆包
+# 养虾介绍
+## DeepSeek、豆包存在的问题
 
 ![609](assets/WorkBuddy入门到精通/file-20260505191405097.png)
 
 ![143](assets/WorkBuddy入门到精通/file-20260506111055571.png)
+DeepSeek和豆包只能输入文本，返回文本，相当于是人的大脑。没有手脚不能直接干活。
 
-# 养虾介绍
 ## 一、什么是OpenClaw？
 
 OpenClaw（曾用名Clawdbot、Moltbot）是一款可以==**部署在个人电脑上的开源AI代理框架**==，因其标志性的“龙虾”图标设计，在中文互联网社区被亲切地称为“小龙虾”。它的核心口号是“The AI that actually does things”（==**真正执行任务的人工智能**==），由程序员彼得·斯坦伯格（Peter Steinberger）开发。
