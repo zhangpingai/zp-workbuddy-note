@@ -453,8 +453,12 @@ Claw 页面可查看远程任务的完整执行记录，包括思考过程、操
 
 帮我找到文件名带有龙虾的。
 ```
-
-
+![](assets/WorkBuddy入门到精通/file-20260506130002211.png)
+# 案例6：发票识别
+```
+帮我读取这张发票的信息。□E:\develop\my_obsidian_note\zp-workbuddy-note\课程素材\发票.png
+```
+![](assets/WorkBuddy入门到精通/file-20260506125826118.png)
 # 技能市场
 简介
 技能市场用于统一管理和安装 Skills，扩展 WorkBuddy 的能力范围。
