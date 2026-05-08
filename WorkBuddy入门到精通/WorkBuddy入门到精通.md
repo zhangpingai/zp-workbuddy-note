@@ -456,7 +456,7 @@ Claw 页面可查看远程任务的完整执行记录，包括思考过程、操
 
 # 案例5：发票识别
 ```
-帮我读取这张发票的信息。□E:\develop\my_obsidian_note\zp-workbuddy-note\课程素材\发票.png
+帮我读取这张发票的信息。E:\develop\my_obsidian_note\zp-workbuddy-note\课程素材\发票.png
 ```
 ![](assets/WorkBuddy入门到精通/file-20260506125826118.png)
 
